@@ -1,4 +1,4 @@
-# 🚀 DevOps Tasks – Node.js Docker & Kubernetes
+# 🚀 DevOps Tasks –  Docker & Kubernetes
 
 This repository demonstrates a complete DevOps workflow using a simple Node.js application, covering Git, Docker, Docker Hub, and Kubernetes from scratch.
 
