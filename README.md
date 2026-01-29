@@ -1,4 +1,4 @@
-# 🚀 DevOps – Docker & Kubernetes Hands-On
+# Docker & Kubernetes Hands-On
 
 This repository demonstrates a complete DevOps workflow using a simple Node.js application, covering Git, Docker, Docker Hub, and Kubernetes from scratch.
 ---
